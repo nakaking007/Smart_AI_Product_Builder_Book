@@ -29,4 +29,3 @@
 13. สรุป
 
 รายละเอียดการเขียนใช้ [Chapter Template](CODEX_CHAPTER_TEMPLATE.md) และการตรวจใช้ [Book Checklist](BOOK_CHECKLIST.md)
-
