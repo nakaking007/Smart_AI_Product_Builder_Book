@@ -2,7 +2,8 @@
 
 ## Smart AI Product Builder — Complete Edition
 
-**สถานะ:** Design Authority  
+**สถานะ:** Design Authority
+
 **อนุมัติใช้:** 19 กรกฎาคม 2569
 
 เมื่อเอกสารเก่าขัดกับมาตรฐานนี้ ให้ใช้เอกสารนี้เป็นหลัก โดยห้ามตัด Canonical Course Scope
