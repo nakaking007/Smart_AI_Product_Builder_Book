@@ -29,23 +29,13 @@ Complete Edition ต้องมีคุณภาพเทียบเท่า
 
 ### Menu and Section Tab
 
-- ขอบนอกของทุกหน้ามีแถบเมนูประจำภาค แสดงหมายเลขภาค ชื่อภาค รหัสบท และตำแหน่งความก้าวหน้า
-- หน้าคู่ใช้แถบด้านซ้าย หน้าคี่ใช้แถบด้านขวา เพื่อค้นบทจากขอบหนังสือได้เร็ว
-- สีแถบสลับตามเลขบท: บทเลขคี่ใช้เขียว บทเลขคู่ใช้ส้ม โดยใช้สีขาวสำหรับข้อความบนแถบ
+- ด้านบนของทุกหน้ามี Ribbon Navigation แสดง PART 1–8 และ Tab เสริมสำหรับ Project, Workshop และ Appendix
+- Part ปัจจุบันใช้สีเต็มและขนาดเด่นกว่า ส่วน Part อื่นใช้ Tint
+- ขอบนอกยังใช้ Thumb Tab แสดงรหัสบทเพื่อค้นหน้าได้เร็ว
 - หน้าเปิดบทใช้ Chapter Band ขนาดใหญ่ ส่วนหน้าปก ภาคผนวก และ Index ใช้รูปแบบเฉพาะที่ยังอยู่ในระบบเดียวกัน
 - แถบเมนูต้องอยู่นอกพื้นที่เนื้อหา ไม่ทับข้อความ ภาพ หรือเลขหน้า
 
-### Green–Orange Menu Tokens
-
-| Token | ใช้กับ | Screen Reference | CMYK Working Value |
-| --- | --- | --- | --- |
-| MENU-GREEN | บทเลขคี่ | `#0A6B54` | C85 M25 Y70 K15 |
-| MENU-ORANGE | บทเลขคู่ | `#B94D13` | C5 M75 Y95 K15 |
-| MENU-TEXT | ตัวอักษรและไอคอน | `#FFFFFF` | C0 M0 Y0 K0 |
-| MENU-GREEN-TINT | กล่องรองในบทเลขคี่ | `#DCEFE9` | ตรวจจาก Color Proof |
-| MENU-ORANGE-TINT | กล่องรองในบทเลขคู่ | `#F8E4D8` | ตรวจจาก Color Proof |
-
-ค่า CMYK เป็น Working Value ต้องปรับตาม ICC Profile กระดาษ และ Color Proof ของโรงพิมพ์ ห้ามใช้ตัวเลขนี้แทนการพิสูจน์สีจริง
+สี Ribbon และองค์ประกอบหลักให้ยึด [Book Art Direction & Editorial Design Standard v1.0](../BOOK_ART_DIRECTION_STANDARD_v1.0.md)
 
 ### Alternating Typography Color
 
@@ -75,7 +65,7 @@ Complete Edition ต้องมีคุณภาพเทียบเท่า
 - ทุกหน้า: Visual Anchor อย่างน้อย 1 จุด
 - ทุก Step: Screenshot/Mockup หรือผลลัพธ์ที่ตรวจได้
 - ทุกหัวข้อแนวคิด: Diagram, Workflow หรือ Mind Map ตามความเหมาะสม
-- ทุกบท: Infographic สรุปอย่างน้อย 1 ภาพ
+- ทุกบท: Infographic อย่างน้อย 3 ภาพ และ Diagram Suite ตามมาตรฐาน v1.0
 - ทุก Workshop: Workflow + Worksheet/Checklist
 - ทุกบทโค้ด: Annotated Code + Output Screenshot
 - ทุกหน้าสรุปบท: Summary Infographic หรือ Learning Map

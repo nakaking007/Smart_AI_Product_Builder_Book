@@ -26,6 +26,7 @@ See:
 - `scripts/` — build, validation, and publishing utilities.
 - `BOOK_SET_01/` — cover, preface, reader guide, contents, and the Gem chapter.
 - `SERIES/` — Complete Edition production source plus paused future-series plans.
+- `BOOK_ART_DIRECTION_STANDARD_v1.0.md` — mandatory editorial design and page-art authority.
 
 ## Editorial workflow
 

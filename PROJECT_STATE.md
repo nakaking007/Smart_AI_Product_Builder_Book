@@ -25,6 +25,7 @@
 - Locked Single Web App Project, Workshop, Capstone Project, Prompt Library, and appendices as non-removable release requirements.
 - Set commercial four-color B5 artwork and print production requirements.
 - Required full-color menu bands, semantic alternating heading colors, and one useful visual anchor per page.
+- Adopted Book Art Direction & Editorial Design Standard v1.0 with eight Part colors, three infographics per chapter, Diagram Suite, Layout Specification, and Image Prompt metadata.
 
 ## Not started
 

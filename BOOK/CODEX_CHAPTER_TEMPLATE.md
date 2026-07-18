@@ -202,5 +202,15 @@
 - [ ] พร้อมนำเข้า InDesign, PageMaker, Photoshop หรือ Illustrator โดยไม่แก้โครงสร้าง
 - [ ] ทุกหน้ามี Section Menu Band และ Visual Anchor อย่างน้อย 1 จุด
 - [ ] สีหัวข้อสลับตาม Design Token ของภาค ไม่สลับแบบสุ่ม
-- [ ] Menu Band บทเลขคี่เป็นเขียว บทเลขคู่เป็นส้ม
+- [ ] Ribbon Highlight และสีตรง Part ตาม Standard v1.0
 - [ ] ภาพบุคคลเป็นคนไทยในบริบทที่เหมาะสมและมี Asset/Rights Record
+
+## Layout Specification
+
+| หน้า/Spread | Page Type | วัตถุประสงค์ | เนื้อหา | Visual Asset | Callout | Ribbon State |
+| --- | --- | --- | --- | --- | --- | --- |
+| [ลำดับ] | [Hero/Step/Prompt/Workshop/Summary] | [ผลที่ผู้อ่านได้รับ] | [หัวข้อ] | [Asset ID] | [ชนิด] | [PART] |
+
+## Image Prompt Register
+
+ทุกภาพระบุ Asset ID, Intended Page, Prompt, Aspect Ratio, Style, Lighting, Color Palette, Negative Prompt, Alt Text, Caption และ Rights Status

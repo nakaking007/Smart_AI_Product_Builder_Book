@@ -16,24 +16,28 @@
 | Summary Page | Summary Band | Summary Infographic | Key Ideas, Checklist, Next Step |
 | Appendix Page | Appendix Tab | Table/Icon Map | Lookup Structure and Cross-reference |
 
-## Menu Band Alternation
+## Part Ribbon Tokens
 
-| ลำดับบท | Menu Token | สีแถบ | สีข้อความ |
-| --- | --- | --- | --- |
-| บทเลขคี่ | MENU-GREEN | เขียวเข้ม `#0A6B54` | ขาว |
-| บทเลขคู่ | MENU-ORANGE | ส้มเข้ม `#B94D13` | ขาว |
-| ส่วนหน้า | MENU-GREEN เป็นฐาน | เขียวและ Green Tint | ขาว/Navy |
-| ภาคผนวก A | MENU-GREEN | เขียวเข้ม | ขาว |
-| ภาคผนวก B | MENU-ORANGE | ส้มเข้ม | ขาว |
-
-สีประจำภาคยังใช้กับ Heading, Diagram และ Infographic ได้ แต่ Menu Band ต้องยึดระบบเขียว–ส้มเพื่อให้ทั้งเล่มเป็นจังหวะเดียวกัน
+| Ribbon | เนื้อหา | สี |
+| --- | --- | --- |
+| PART 1 | พื้นฐาน AI | เขียว |
+| PART 2 | Gem Builder | ส้ม |
+| PART 3 | Custom GPT | น้ำเงิน |
+| PART 4 | NotebookLM | ม่วง |
+| PART 5 | Chrome Extension | ฟ้า |
+| PART 6 | Google Apps Script | เขียวอมฟ้า |
+| PART 7 | Codex | แดง |
+| PART 8 | AI Business | ทอง |
+| PROJECT LAB | Single Web App | Navy/Cyan |
+| WORKSHOP & PROJECT | Workshop/Capstone | ส้ม/ทอง |
+| APPENDIX | ภาคผนวก | Slate/เขียว |
 
 ## Per-Page QA
 
 - [ ] ใช้ CMYK 4 สีตาม Profile โรงพิมพ์
 - [ ] Menu Band อยู่ถูกขอบตามหน้าคู่/หน้าคี่
 - [ ] ชื่อภาค บท และรหัสบทถูกต้อง
-- [ ] บทเลขคี่ใช้ MENU-GREEN และบทเลขคู่ใช้ MENU-ORANGE
+- [ ] Ribbon Highlight ตรง Part ปัจจุบันและใช้สีตาม Standard v1.0
 - [ ] มี Visual Anchor อย่างน้อย 1 จุด
 - [ ] Visual Anchor ไม่ซ้ำเพื่อเติมพื้นที่
 - [ ] Caption, Figure Number และ Alt Text ครบ

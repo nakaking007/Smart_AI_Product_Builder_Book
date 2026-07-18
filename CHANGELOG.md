@@ -21,6 +21,7 @@ All notable manuscript and release changes are recorded here.
 - Reinforced official-source freshness, plain-language, and HOW TO-first production rules.
 - Set the canonical author to Dr. Khemawan Buaban and recorded THB 500 list price with THB 399 removable promotional badge.
 - Added front-cover preview v0.3 with author and promotional-price copy for editorial review.
+- Adopted Book Art Direction & Editorial Design Standard v1.0 as the design authority and replaced odd/even menu colors with eight Part colors.
 
 ## 1.0.0-set01 — 2026-07-18
 
