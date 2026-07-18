@@ -3,6 +3,7 @@ book_number: 1
 book_code: SAPB-COMP
 title: Smart AI Product Builder
 subtitle: คู่มือเรียนการใช้ AI ฉบับจับมือทำ
+author: ดร.เขมวันต์ บัวบาน
 edition: Complete Edition
 version: 0.2.0-alpha
 language: th-TH
@@ -17,8 +18,17 @@ pdf_files_per_book: 1
 course_duration: 2 days
 learning_outcome: สร้าง ทดสอบ เผยแพร่ และนำเสนอ AI Product ชิ้นแรกที่ใช้งานได้จริง
 example_rule: ทุกหัวข้อมีตัวอย่างใช้งานจริงอย่างน้อย 3 ตัวอย่าง
-cover_concept: assets/images/cover/SAPB_BASIC_cover_concept_v01.jpg
+cover_concept: assets/images/cover/SAPB_Complete_Edition_front_cover_concept_v02.png
+cover_preview: assets/images/cover/SAPB_Complete_Edition_front_cover_preview_v03.png
 cover_status: draft-concept-not-print-ready
+interior_layout_reference: assets/images/layout_reference/SAPB_interior_layout_reference_v01.png
 canonical_scope: CANONICAL_SCOPE.md
 legacy_directory_name: 01_BASIC
 extended_series_status: future-plan
+currency: THB
+list_price: 500
+promotional_price: 399
+list_price_display: ๕๐๐ บาท
+promotional_price_display: ๓๙๙ บาท
+promotion_period: to-be-confirmed
+promotional_badge_layer: removable

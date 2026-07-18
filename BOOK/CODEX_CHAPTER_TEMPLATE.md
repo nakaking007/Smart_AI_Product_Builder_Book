@@ -202,3 +202,5 @@
 - [ ] พร้อมนำเข้า InDesign, PageMaker, Photoshop หรือ Illustrator โดยไม่แก้โครงสร้าง
 - [ ] ทุกหน้ามี Section Menu Band และ Visual Anchor อย่างน้อย 1 จุด
 - [ ] สีหัวข้อสลับตาม Design Token ของภาค ไม่สลับแบบสุ่ม
+- [ ] Menu Band บทเลขคี่เป็นเขียว บทเลขคู่เป็นส้ม
+- [ ] ภาพบุคคลเป็นคนไทยในบริบทที่เหมาะสมและมี Asset/Rights Record

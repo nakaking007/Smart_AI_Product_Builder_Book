@@ -16,6 +16,11 @@ All notable manuscript and release changes are recorded here.
 - Confirmed the Complete Edition as the canonical single-volume two-day course; future books 2–6 are paused.
 - Added the commercial four-color computer-book art and print production standard.
 - Required full-color page furniture, outer-edge menu tabs, semantic alternating heading colors, and at least one useful visual anchor on every page.
+- Locked green/orange alternating chapter menu bands and added the Thai people illustration standard.
+- Added the approved interior layout reference and current front-cover concept with print/copy correction records.
+- Reinforced official-source freshness, plain-language, and HOW TO-first production rules.
+- Set the canonical author to Dr. Khemawan Buaban and recorded THB 500 list price with THB 399 removable promotional badge.
+- Added front-cover preview v0.3 with author and promotional-price copy for editorial review.
 
 ## 1.0.0-set01 — 2026-07-18
 
