@@ -11,6 +11,8 @@ All notable manuscript and release changes are recorded here.
 - Re-scoped Book 1 BASIC as a two-day course that ends with a working AI Product.
 - Added Single Web App chapters, Capstone, and Ready-to-Use Example Library.
 - Required at least three real examples for every taught topic.
+- Added the supplied Book 1 cover as a draft concept with checksum and asset metadata.
+- Added print-readiness, copy-correction, rights, and cover approval checks.
 
 ## 1.0.0-set01 — 2026-07-18
 

@@ -17,3 +17,5 @@ pdf_files_per_book: 1
 course_duration: 2 days
 learning_outcome: สร้างและนำเสนอ AI Product ชิ้นแรกที่ใช้งานได้จริง
 example_rule: ทุกหัวข้อมีตัวอย่างใช้งานจริงอย่างน้อย 3 ตัวอย่าง
+cover_concept: assets/images/cover/SAPB_BASIC_cover_concept_v01.jpg
+cover_status: draft-concept-not-print-ready
