@@ -200,3 +200,5 @@
 - [ ] สัดส่วนข้อความ ภาพ และ White Space อ่านสบาย
 - [ ] ใช้ Navy Blue, Royal Blue, Black, Gold, Light Gray และ White สม่ำเสมอ
 - [ ] พร้อมนำเข้า InDesign, PageMaker, Photoshop หรือ Illustrator โดยไม่แก้โครงสร้าง
+- [ ] ทุกหน้ามี Section Menu Band และ Visual Anchor อย่างน้อย 1 จุด
+- [ ] สีหัวข้อสลับตาม Design Token ของภาค ไม่สลับแบบสุ่ม

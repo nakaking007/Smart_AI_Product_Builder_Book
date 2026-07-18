@@ -24,6 +24,7 @@
 - Confirmed all Basic and Advanced subjects in one Complete Edition.
 - Locked Single Web App Project, Workshop, Capstone Project, Prompt Library, and appendices as non-removable release requirements.
 - Set commercial four-color B5 artwork and print production requirements.
+- Required full-color menu bands, semantic alternating heading colors, and one useful visual anchor per page.
 
 ## Not started
 

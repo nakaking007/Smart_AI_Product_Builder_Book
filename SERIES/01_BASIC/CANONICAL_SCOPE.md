@@ -44,6 +44,7 @@ The historical directory name `SERIES/01_BASIC` is retained to avoid breaking li
 - Markdown, code, image, DOCX, and render files are production sources or QA artifacts.
 - The PDF is not considered complete until content, technical, visual, and print preflight checks pass.
 - The print edition is a full-color commercial computer book using the approved B5 working grid, CMYK production, 300 PPI imagery, and original premium artwork.
+- Every content page uses full-color page furniture, an outer-edge section menu, semantic alternating heading colors, and at least one useful visual anchor.
 
 ## Extended Series Status
 

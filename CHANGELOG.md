@@ -15,6 +15,7 @@ All notable manuscript and release changes are recorded here.
 - Added print-readiness, copy-correction, rights, and cover approval checks.
 - Confirmed the Complete Edition as the canonical single-volume two-day course; future books 2–6 are paused.
 - Added the commercial four-color computer-book art and print production standard.
+- Required full-color page furniture, outer-edge menu tabs, semantic alternating heading colors, and at least one useful visual anchor on every page.
 
 ## 1.0.0-set01 — 2026-07-18
 
