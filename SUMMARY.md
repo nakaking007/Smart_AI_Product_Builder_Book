@@ -2,32 +2,32 @@
 
 ## เล่ม 1 — Smart AI Product Builder BASIC
 
-AI Foundation, Gem, Custom GPT, การวิเคราะห์ตลาด การตั้งราคา Workshop และ Mini Project รวม 20 บท  
+AI Foundation, Gem, Custom GPT, การวิเคราะห์ตลาด การตั้งราคา Workshop และ Mini Project รวม 20 บท
 **PDF หลัก:** `Smart_AI_Product_Builder_BASIC_v1.0.pdf`
 
 ## เล่ม 2 — NotebookLM Builder
 
-Sources, Chat, Notes, Study Guide, FAQ, Mind Map, Timeline, Audio/Video Overview และการประยุกต์ใช้ รวม 20 บท  
+Sources, Chat, Notes, Study Guide, FAQ, Mind Map, Timeline, Audio/Video Overview และการประยุกต์ใช้ รวม 20 บท
 **PDF หลัก:** `NotebookLM_Builder_v1.0.pdf`
 
 ## เล่ม 3 — Chrome Extension Builder
 
-Manifest V3, Project Structure, UI, Service Worker, Content Script, Permissions, Storage, API, Debug และ Publish รวม 20 บท  
+Manifest V3, Project Structure, UI, Service Worker, Content Script, Permissions, Storage, API, Debug และ Publish รวม 20 บท
 **PDF หลัก:** `Chrome_Extension_Builder_v1.0.pdf`
 
 ## เล่ม 4 — Google Apps Script Builder
 
-Workspace Services, HTML Service, Web App, Trigger, API, Dashboard, Database และโครงงาน รวม 20 บท  
+Workspace Services, HTML Service, Web App, Trigger, API, Dashboard, Database และโครงงาน รวม 20 บท
 **PDF หลัก:** `Google_Apps_Script_Builder_v1.0.pdf`
 
 ## เล่ม 5 — Codex Developer
 
-Repository, Git/GitHub, Markdown, Prompt, Refactor, Debug, Deployment, Automation และ Agent รวม 20 บท  
+Repository, Git/GitHub, Markdown, Prompt, Refactor, Debug, Deployment, Automation และ Agent รวม 20 บท
 **PDF หลัก:** `Codex_Developer_v1.0.pdf`
 
 ## เล่ม 6 — AI Product Business
 
-Market, Persona, SWOT, Product-Market Fit, Brand, Price, Funnel, Marketing, Proposal และ Capstone รวม 20 บท  
+Market, Persona, SWOT, Product-Market Fit, Brand, Price, Funnel, Marketing, Proposal และ Capstone รวม 20 บท
 **PDF หลัก:** `AI_Product_Business_v1.0.pdf`
 
 รายละเอียดบททั้งหมดอยู่ที่ [Series Blueprint](SERIES/SERIES_BLUEPRINT.md) และการย้ายเนื้อหาเดิมติดตามใน [Content Migration Map](SERIES/CONTENT_MIGRATION_MAP.md)

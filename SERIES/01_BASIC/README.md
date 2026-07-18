@@ -1,7 +1,8 @@
 # Smart AI Product Builder BASIC
 
-**ชื่อรอง:** คู่มือเรียนการใช้ AI ฉบับจับมือทำ  
-**รหัสเล่ม:** SAPB-BAS  
+**ชื่อรอง:** คู่มือเรียนการใช้ AI ฉบับจับมือทำ
+
+**รหัสเล่ม:** SAPB-BAS
 **สถานะ:** Premium Edition — In Production
 
 เล่มแรกของชุด ใช้สำหรับวันแรกของการอบรม เน้น Gem, Custom GPT และ AI Business เบื้องต้น
