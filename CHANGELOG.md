@@ -4,7 +4,10 @@ All notable manuscript and release changes are recorded here.
 
 ## Unreleased
 
-- Queued BOOK_SET_02 through BOOK_SET_07 and the final multi-format package.
+- Reframed the project as a six-book Smart AI Product Builder Series.
+- Preserved original BOOK_SET files as source archive and added a content migration map.
+- Added shared Series art direction and Premium chapter-opening/layout standards.
+- Defined one complete PDF per book as the primary delivery format.
 
 ## 1.0.0-set01 — 2026-07-18
 

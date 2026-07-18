@@ -83,3 +83,7 @@
 ## Quality Gate
 
 บทจะถือว่าเสร็จเมื่อโครงสร้างครบ ทำตามได้จริง ไม่มีข้อมูลลับ แยกข้อมูลจริงกับสถานการณ์จำลอง มีวันที่ตรวจสอบ UI และพร้อมส่งออกเป็น PDF, DOCX และ EPUB โดยไม่ต้องเปลี่ยนโครงสร้างต้นฉบับ
+
+การตกแต่งฉบับพิมพ์ให้ใช้ [Premium Book Decoration Standard](../BOOK_PREMIUM_DECORATION_STANDARD.md) โดยรักษา Semantic Markdown และใช้แม่แบบจัดหน้าควบคุมไอคอน Bullet, Numbering, Header, Footer และ Divider
+
+มาตรฐานดังกล่าวเป็นข้อบังคับสำหรับทุกบท รวมถึงหน้าเปิดบทเต็มหน้า ระบบ Section Title และ Callout, Quote อย่างน้อย 2 จุด, Caption/เลขตาราง, สัดส่วน Page Composition, ชุดสี Navy–Royal Blue–Black–Gold และ Final Art Director Check ก่อนส่งออก

@@ -1,10 +1,10 @@
-# Smart AI Product Builder Book
+# Smart AI Product Builder Series
 
-A professional, practical book project for turning AI ideas into usable digital products—starting with AI foundations and prompt engineering, then progressing through Gems, Custom GPTs, NotebookLM, single-file HTML apps, Google Apps Script, Chrome extensions, Codex, and complete AI product development.
+A professional six-book practical series for turning AI ideas into usable digital products. Each book is maintained and updated independently while sharing one premium editorial design system.
 
 ## Project status
 
-The publisher-edition production is active. `BOOK_SET_01` contains the front matter and the complete hands-on Gem chapter. Additional book sets are produced and quality-checked in sequence before the final DOCX, PDF, EPUB, and release package are built.
+The publisher-edition production is active. The project is migrating from the original `BOOK_SET_*` source archive into a six-book Series. Each finished book is delivered as one complete PDF, never as separate chapter PDFs.
 
 See:
 
@@ -25,6 +25,7 @@ See:
 - `output/` — generated publication files; not the manuscript source.
 - `scripts/` — build, validation, and publishing utilities.
 - `BOOK_SET_01/` — cover, preface, reader guide, contents, and the Gem chapter.
+- `SERIES/` — six-book architecture, migration map, art direction, and per-book production sources.
 
 ## Editorial workflow
 
@@ -37,8 +38,9 @@ See:
 
 ## Current manuscript state
 
-- BOOK_SET_01: manuscript complete and pending packaged-release verification.
-- BOOK_SET_02–07: queued for sequential production and QA.
-- Final release: blocked until all sets and export formats pass validation.
+- Original BOOK_SET files: preserved as source archive during migration.
+- Series architecture: established for six books.
+- Book 1 BASIC: first Premium Edition in production.
+- Final release: six primary PDFs, one PDF per book, after render and preflight QA.
 
 See [SUMMARY.md](SUMMARY.md) for the fixed course sequence and [CHANGELOG.md](CHANGELOG.md) for completed deliveries.

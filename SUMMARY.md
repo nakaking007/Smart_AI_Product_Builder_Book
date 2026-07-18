@@ -1,60 +1,40 @@
-# Smart AI Product Builder — Production Summary
+# Smart AI Product Builder — Series Summary
 
-## BOOK_SET_01
+## เล่ม 1 — Smart AI Product Builder BASIC
 
-- 00 ปก
-- 01 คำนำ
-- 02 วิธีใช้หนังสือ
-- 03 สารบัญ
-- 04 การสร้าง Gem
+AI Foundation, Gem, Custom GPT, การวิเคราะห์ตลาด การตั้งราคา Workshop และ Mini Project รวม 20 บท  
+**PDF หลัก:** `Smart_AI_Product_Builder_BASIC_v1.0.pdf`
 
-## BOOK_SET_02 — Basic
+## เล่ม 2 — NotebookLM Builder
 
-- 05 การสร้าง Custom GPT
-- 06 การวิเคราะห์ตลาดและตั้งราคา
-- 07 การใช้ NotebookLM
-- 08 Workshop Basic
-- 09 Project Basic
+Sources, Chat, Notes, Study Guide, FAQ, Mind Map, Timeline, Audio/Video Overview และการประยุกต์ใช้ รวม 20 บท  
+**PDF หลัก:** `NotebookLM_Builder_v1.0.pdf`
 
-## BOOK_SET_03 — Advanced Builder
+## เล่ม 3 — Chrome Extension Builder
 
-- 10 การสร้าง Chrome Extension
-- 11 การออกแบบและสร้าง Google Apps Script
-- 12 การพัฒนา Chrome Extension ขั้นสูง
-- 13 การใช้ Codex
-- 14 Workshop Advanced
+Manifest V3, Project Structure, UI, Service Worker, Content Script, Permissions, Storage, API, Debug และ Publish รวม 20 บท  
+**PDF หลัก:** `Chrome_Extension_Builder_v1.0.pdf`
 
-## BOOK_SET_04 — Product and Reference
+## เล่ม 4 — Google Apps Script Builder
 
-- 15 การวิเคราะห์ตลาด การเผยแพร่ และตั้งราคา AI Product
-- 16 Capstone Project
-- 17 Prompt Library
-- 18 FAQ
-- 19 ภาคผนวก
+Workspace Services, HTML Service, Web App, Trigger, API, Dashboard, Database และโครงงาน รวม 20 บท  
+**PDF หลัก:** `Google_Apps_Script_Builder_v1.0.pdf`
 
-## BOOK_SET_05 — Teaching and Print Assets
+## เล่ม 5 — Codex Developer
 
-- 20 Answer Key
-- 21 Instructor Guide
-- 22 Slide Guide
-- 23 Image Prompt Library
-- 24 Print Master
+Repository, Git/GitHub, Markdown, Prompt, Refactor, Debug, Deployment, Automation และ Agent รวม 20 บท  
+**PDF หลัก:** `Codex_Developer_v1.0.pdf`
 
-## BOOK_SET_06 — Publisher Review
+## เล่ม 6 — AI Product Business
 
-- 25 Editor Review
-- 26 Technical Review
-- 27 Copy Edit
-- 28 Final Layout Check
-- 29 Release Manager
-- BOOK QA Report
+Market, Persona, SWOT, Product-Market Fit, Brand, Price, Funnel, Marketing, Proposal และ Capstone รวม 20 บท  
+**PDF หลัก:** `AI_Product_Business_v1.0.pdf`
 
-## BOOK_SET_07 — Policy and Final QA
+รายละเอียดบททั้งหมดอยู่ที่ [Series Blueprint](SERIES/SERIES_BLUEPRINT.md) และการย้ายเนื้อหาเดิมติดตามใน [Content Migration Map](SERIES/CONTENT_MIGRATION_MAP.md)
 
-- 30 Editorial Policy
-- 31 Fact Check Policy
-- 32 Content Update Policy
-- 33 Version Control
-- 34 AI Ethics and Copyright
-- 35 Final Release Checklist
-- Final Book Report
+## กติกาผลส่งมอบ
+
+- หนึ่งเล่มต่อหนึ่ง PDF
+- รวมทั้งชุดมี PDF หลัก 6 ไฟล์
+- ไม่แยก PDF รายบท
+- Markdown, DOCX, ภาพ และไฟล์ Render เป็น Production Source/QA Artifact
