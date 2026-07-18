@@ -5,7 +5,7 @@
 - Project: Smart AI Product Builder Book
 - Project type: Professional technical book
 - Phase: Manuscript development
-- Overall status: Migrating preserved BOOK_SET sources into a six-book Premium Series; Book 1 BASIC in production
+- Overall status: Book 1 BASIC re-scoped as a two-day build-to-product course with Single Web App, Capstone, and Ready-to-Use Example Library
 - Last updated: 2026-07-18
 
 ## Completed
@@ -19,6 +19,8 @@
 - Saved and Markdown-formatted the received portion of Chapter 1, “โลกของ AI และ Generative AI.”
 - Created BOOK_SET_01 front matter and a complete Gem chapter with 12 steps, 20 prompts, Workshop, Mini Project, safety guidance, and official references.
 - Defined the six-book Series architecture, shared art direction, content migration map, and one-PDF-per-book delivery rule.
+- Approved the revised 20-chapter BASIC curriculum plus front matter and two appendices.
+- Added the rule that every taught topic has at least three working examples.
 
 ## Not started
 
@@ -39,4 +41,4 @@
 
 ## Next milestone
 
-Build Smart AI Product Builder BASIC as the first Premium Edition and export it as one complete PDF after render QA.
+Migrate and expand Book 1 chapter sources, build working example files, then export one complete PDF after technical and visual QA.

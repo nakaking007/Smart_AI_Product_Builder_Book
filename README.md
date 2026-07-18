@@ -40,7 +40,7 @@ See:
 
 - Original BOOK_SET files: preserved as source archive during migration.
 - Series architecture: established for six books.
-- Book 1 BASIC: first Premium Edition in production.
+- Book 1 BASIC: two-day build-to-product Premium Edition in production, including Gem, Custom GPT, NotebookLM, Single Web App, AI Business, and Capstone.
 - Final release: six primary PDFs, one PDF per book, after render and preflight QA.
 
 See [SUMMARY.md](SUMMARY.md) for the fixed course sequence and [CHANGELOG.md](CHANGELOG.md) for completed deliveries.

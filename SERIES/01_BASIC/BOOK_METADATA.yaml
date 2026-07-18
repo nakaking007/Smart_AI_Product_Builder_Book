@@ -9,8 +9,11 @@ language: th-TH
 primary_color: Navy Blue
 accent_color: Royal Blue
 shared_accent: Gold
-target_pages: 220-250
+target_pages: 280-360
 fact_check_date: 2026-07-18
 status: in-production
 primary_delivery: Smart_AI_Product_Builder_BASIC_v1.0.pdf
 pdf_files_per_book: 1
+course_duration: 2 days
+learning_outcome: สร้างและนำเสนอ AI Product ชิ้นแรกที่ใช้งานได้จริง
+example_rule: ทุกหัวข้อมีตัวอย่างใช้งานจริงอย่างน้อย 3 ตัวอย่าง

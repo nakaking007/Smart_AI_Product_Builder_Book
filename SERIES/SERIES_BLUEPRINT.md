@@ -8,7 +8,7 @@
 
 | รหัส | ชื่อเล่ม | ขอบเขต | เป้าหมายหน้า |
 | --- | --- | --- | ---: |
-| SAPB-BAS | Smart AI Product Builder BASIC | Gem, Custom GPT และธุรกิจเบื้องต้น | 220–250 |
+| SAPB-BAS | Smart AI Product Builder BASIC | AI Foundation, Gem, Custom GPT, NotebookLM, Single Web App และ Capstone | 280–360 |
 | SAPB-NBL | NotebookLM Builder | Source-grounded research และการผลิตองค์ความรู้ | 180–220 |
 | SAPB-CHR | Chrome Extension Builder | Manifest V3 ถึงการเผยแพร่ | 220–250 |
 | SAPB-GAS | Google Apps Script Builder | Workspace automation และ Web App | 250–300 |
@@ -38,26 +38,32 @@
 
 ### เล่ม 1 — Smart AI Product Builder BASIC
 
-1. คำนำ
-2. วิธีใช้หนังสือ
-3. AI คืออะไรและภาพรวมเครื่องมือ AI
-4. เตรียมบัญชีและเครื่องมือที่จำเป็น
-5. รู้จัก Gem
-6. การสร้าง Gem
-7. การออกแบบ Prompt สำหรับ Gem
-8. การเพิ่ม Knowledge
-9. การทดสอบและปรับปรุง Gem
-10. การแชร์และนำ Gem ไปใช้งาน
-11. รู้จัก Custom GPT
-12. การสร้าง Custom GPT
-13. การออกแบบ Instructions
-14. การเพิ่ม Knowledge
-15. การทดสอบและ Publish
-16. วิเคราะห์ตลาด
-17. การตั้งราคา
-18. Workshop
-19. Mini Project
-20. สรุปและแบบฝึกหัด
+ส่วนหน้า: ปก ลิขสิทธิ์ คำนิยม คำนำ วิธีใช้หนังสือ และสารบัญ
+
+1. โลกของ AI และ AI Product
+2. การเตรียมเครื่องมือและบัญชี
+3. Prompt Engineering สำหรับผู้เริ่มต้น
+4. รู้จัก Gem
+5. การสร้าง Gem
+6. การเพิ่ม Knowledge และการออกแบบ Prompt
+7. การทดสอบ ปรับปรุง และเผยแพร่ Gem
+8. รู้จัก Custom GPT
+9. การสร้าง Custom GPT
+10. การเพิ่ม Knowledge และ Actions
+11. การทดสอบและเผยแพร่
+12. การใช้ NotebookLM เพื่อสร้างองค์ความรู้
+13. การสร้างคู่มือ หนังสือ และหลักสูตรด้วย NotebookLM
+14. การวิเคราะห์ตลาดและตั้งราคา AI Product
+15. การสร้าง Single Web App ด้วย AI
+16. HTML, CSS และ JavaScript เบื้องต้น
+17. การใช้ AI สร้าง Single File Web App
+18. การทดสอบและเผยแพร่ Single Web App
+19. Workshop และ Mini Project
+20. สร้าง AI Product ชิ้นแรกของคุณ
+
+ภาคผนวก A: Prompt Library, AI Cheat Sheet, FAQ, Glossary และ References
+
+ภาคผนวก B: Ready-to-Use Examples สำหรับ Gem, Custom GPT, NotebookLM, Single Web App, Prompt และ AI Product
 
 ### เล่ม 2 — NotebookLM Builder
 

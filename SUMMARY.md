@@ -2,7 +2,7 @@
 
 ## เล่ม 1 — Smart AI Product Builder BASIC
 
-AI Foundation, Gem, Custom GPT, การวิเคราะห์ตลาด การตั้งราคา Workshop และ Mini Project รวม 20 บท
+หลักสูตร 2 วัน: AI Foundation, Gem, Custom GPT, NotebookLM, AI Business, Single Web App และ Capstone รวม 20 บท พร้อมภาคผนวก Reference และ Ready-to-Use Example Library
 **PDF หลัก:** `Smart_AI_Product_Builder_BASIC_v1.0.pdf`
 
 ## เล่ม 2 — NotebookLM Builder
