@@ -4,7 +4,7 @@ A professional, practical book project for turning AI ideas into usable digital 
 
 ## Project status
 
-The project structure and editorial specifications are initialized. Chapter 1 has a complete first draft; Chapters 2–12 remain empty placeholders.
+The publisher-edition production is active. `BOOK_SET_01` contains the front matter and the complete hands-on Gem chapter. Additional book sets are produced and quality-checked in sequence before the final DOCX, PDF, EPUB, and release package are built.
 
 See:
 
@@ -24,6 +24,7 @@ See:
 - `references/` — research notes, citations, and source records.
 - `output/` — generated publication files; not the manuscript source.
 - `scripts/` — build, validation, and publishing utilities.
+- `BOOK_SET_01/` — cover, preface, reader guide, contents, and the Gem chapter.
 
 ## Editorial workflow
 
@@ -36,4 +37,8 @@ See:
 
 ## Current manuscript state
 
-Chapter 1 has been drafted and its source record is available under `references/`. Chapters 2–12 have not been drafted.
+- BOOK_SET_01: manuscript complete and pending packaged-release verification.
+- BOOK_SET_02–07: queued for sequential production and QA.
+- Final release: blocked until all sets and export formats pass validation.
+
+See [SUMMARY.md](SUMMARY.md) for the fixed course sequence and [CHANGELOG.md](CHANGELOG.md) for completed deliveries.

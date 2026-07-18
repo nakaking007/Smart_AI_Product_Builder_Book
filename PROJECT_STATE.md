@@ -5,7 +5,7 @@
 - Project: Smart AI Product Builder Book
 - Project type: Professional technical book
 - Phase: Manuscript development
-- Overall status: Chapter 1 first draft complete; remaining chapters not started
+- Overall status: BOOK_SET_01 manuscript complete; BOOK_SET_02–07 queued for sequential production
 - Last updated: 2026-07-18
 
 ## Completed
@@ -16,13 +16,12 @@
 - Defined the chapter-level content plan.
 - Defined the editorial style guide.
 - Defined contributor and AI-agent working rules.
-- Drafted Chapter 1, “AI Foundations for Product Builders.”
-- Added a traceable source record for Chapter 1.
+- Saved and Markdown-formatted the received portion of Chapter 1, “โลกของ AI และ Generative AI.”
+- Created BOOK_SET_01 front matter and a complete Gem chapter with 12 steps, 20 prompts, Workshop, Mini Project, safety guidance, and official references.
 
 ## Not started
 
-- Research for Chapters 2–12
-- Drafting for Chapters 2–12
+- BOOK_SET_02–07 manuscripts
 - Prompt library development
 - Code examples
 - Templates and worksheets
@@ -33,10 +32,10 @@
 
 ## Current constraints
 
-- Chapter files must remain empty until chapter drafting is explicitly authorized.
+- Preserve the fixed Basic and Advanced course sequence.
 - Product behavior and UI instructions must be verified against current sources when drafting begins.
 - Code and procedures must be tested before they are described as working.
 
 ## Next milestone
 
-Perform editorial and technical review of Chapter 1, then authorize the next chapter to draft.
+Complete BOOK_SET_02 using the approved How To and publisher-quality gates.
