@@ -1,0 +1,37 @@
+# Summary
+
+## ภาค 1 พื้นฐานและวิธีคิด
+
+1. [เริ่มต้นเป็น Smart AI Product Builder](chapters/01_Introduction.md)
+2. เริ่มต้นใช้งาน AI อย่างปลอดภัย
+3. Prompt Engineering แบบจับมือทำ
+4. Context Engineering
+5. Knowledge Engineering
+6. Workflow Engineering
+
+## ภาค 2 เครื่องมือ AI
+
+7. ChatGPT
+8. Gemini และ Gem
+9. NotebookLM
+10. Claude และ Perplexity
+11. Codex
+
+## ภาค 3 การสร้าง AI Product
+
+12. Google Apps Script
+13. HTML, CSS และ JavaScript
+14. Single File Application
+15. Chrome Extension
+16. AI Agent
+
+## ภาค 4 โครงงาน
+
+17. AI LMS
+18. AI Government
+19. AI School
+20. AI Media Factory
+21. Smart AI Product Builder Capstone
+
+> รายการที่ยังไม่มีลิงก์เป็นบทที่วางแผนไว้และยังไม่สร้างไฟล์ต้นฉบับ
+
