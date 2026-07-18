@@ -1,7 +1,8 @@
 # Canonical Scope — Smart AI Product Builder Complete Edition
 
-**Decision status:** Approved canonical version  
-**Effective date:** 19 July 2026  
+**Decision status:** Approved canonical version
+
+**Effective date:** 19 July 2026
 **Supersedes:** BASIC day-one-only outline and six-book-first production plan
 
 ## Canonical Product
