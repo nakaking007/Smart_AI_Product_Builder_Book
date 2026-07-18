@@ -16,6 +16,12 @@
 | `BOOK_SET_02/09_Project_Basic.md` | Project Basic | เล่ม 1 บท 20 | รอปรับ |
 | `chapters/01_AI_Foundation.md` | AI Foundation | เล่ม 1 บท 1–3 | รอคัดเลือกโดยไม่ทับการแก้ไขของผู้ใช้ |
 | เนื้อหาใหม่ | Single Web App | เล่ม 1 บท 15–18 และ Example Library B04 | ต้องสร้างใหม่ |
+| `chapters/09_Chrome_Extension.md` | Chrome Extension | Complete Edition บท 19–22 | รอคัดเลือกและตรวจเอกสารทางการ |
+| `chapters/07_Google_Apps_Script.md` | Google Apps Script | Complete Edition บท 23–25 | รอคัดเลือกและตรวจเอกสารทางการ |
+| `chapters/08_GAS_Project_Generator.md` | GAS Project Generator | Complete Edition Example Library | รอทดสอบก่อนย้าย |
+| `chapters/10_Codex.md` | Codex | Complete Edition บท 26–28 | รอคัดเลือกและตรวจเอกสารทางการ |
+| เนื้อหาตลาด/การเผยแพร่เดิม | AI Product Business ขั้นสูง | Complete Edition บท 29–30 | รอรวมและตัดซ้ำ |
+| Workshop และโครงงานเดิม | Workshop/Capstone | Complete Edition บท 31–32 | รอรวม Rubric และ Test Evidence |
 
 ## กติกา Content Parity
 
@@ -23,3 +29,4 @@
 - ห้ามลบ Source จนกว่าจะเทียบหัวข้อ Prompt Workshop ภาพ และ References ครบ
 - เนื้อหาซ้ำได้ระหว่างช่วงย้าย แต่ห้ามนับซ้ำในรายงานฉบับจำหน่าย
 - เมื่อแก้ข้อเท็จจริงใน Target ให้บันทึกเหตุผลและวันที่ตรวจสอบ ไม่ย้อนแก้ Source Archive
+- เนื้อหา Extended Series เล่ม 2–6 พักไว้ ไม่ย้ายหรือผลิตจนกว่าจะมีคำสั่งใหม่

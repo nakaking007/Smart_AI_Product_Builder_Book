@@ -13,6 +13,8 @@ All notable manuscript and release changes are recorded here.
 - Required at least three real examples for every taught topic.
 - Added the supplied Book 1 cover as a draft concept with checksum and asset metadata.
 - Added print-readiness, copy-correction, rights, and cover approval checks.
+- Confirmed the Complete Edition as the canonical single-volume two-day course; future books 2–6 are paused.
+- Added the commercial four-color computer-book art and print production standard.
 
 ## 1.0.0-set01 — 2026-07-18
 

@@ -3,7 +3,7 @@
 ## COVER-BASIC-CONCEPT-01
 
 - **File:** `SAPB_BASIC_cover_concept_v01.jpg`
-- **Role:** แนวคิดปกหน้าเล่ม 1
+- **Role:** แนวคิดปกหน้า Smart AI Product Builder Complete Edition
 - **Status:** Draft concept; not print-ready
 - **Dimensions:** 904 × 1280 px
 - **DPI metadata:** 96 × 96

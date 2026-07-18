@@ -1,4 +1,4 @@
-# Curriculum Outcome Map — Smart AI Product Builder BASIC
+# Curriculum Outcome Map — Smart AI Product Builder Complete Edition
 
 ## เป้าหมายหลัก
 
@@ -14,7 +14,11 @@
 | NotebookLM | 12–13 | Source Register + Knowledge Artifact | Citation ตรวจย้อนกลับได้ |
 | AI Business | 14 | Persona + Competitor Matrix + Price Card | ราคาอธิบายจากคุณค่าและต้นทุนได้ |
 | Single Web App | 15–18 | `index.html` + Browser Test Report | เปิดใช้งาน ฟังก์ชันหลักผ่าน และไม่มี Secret |
-| Capstone | 19–20 | AI Product Submission Pack | Demo ได้ README ครบ Rubric ผ่าน |
+| Chrome Extension | 19–22 | Extension + Test/Permission Report | โหลดแบบ Unpacked ได้และสิทธิ์เท่าที่จำเป็น |
+| Google Apps Script | 23–25 | Web App + Deployment Record | Flow หลักทำงานและแยก Secret/Properties ถูกต้อง |
+| Codex | 26–28 | Repository + Git History + Review Report | ทำซ้ำจาก README ได้และมีหลักฐานการทดสอบ |
+| AI Business ขั้นสูง | 29–30 | Publishing Plan + Offer + Price Card | ช่องทางและราคาอธิบายจากหลักฐานได้ |
+| Workshop/Capstone | 31–32 | AI Product Submission Pack | Demo ได้ README ครบ Rubric ผ่าน |
 
 ## Submission Pack ขั้นต่ำ
 
@@ -26,11 +30,15 @@ capstone/
 ├── knowledge/
 ├── webapp/
 │   └── index.html
+├── extension/
+├── apps-script/
+├── repository/
 ├── tests/
 │   ├── functional_test.md
 │   └── safety_test.md
 ├── market/
 │   └── price_card.md
+├── publishing/
 ├── screenshots/
 └── reflection.md
 ```

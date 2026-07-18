@@ -1,11 +1,11 @@
-# Smart AI Product Builder BASIC
+# Smart AI Product Builder — Complete Edition
 
 **ชื่อรอง:** คู่มือเรียนการใช้ AI ฉบับจับมือทำ
 
-**รหัสเล่ม:** SAPB-BAS
+**รหัสเล่ม:** SAPB-COMP
 **สถานะ:** Premium Edition — In Production
 
-เล่มแรกของชุด ใช้เป็นหลักสูตร 2 วัน เน้นการสร้างผลงานตั้งแต่ Gem, Custom GPT, NotebookLM และ Single Web App ไปจนถึงการวิเคราะห์ตลาด ราคา และ Capstone AI Product
+หนังสือหลักสูตร 2 วันฉบับสมบูรณ์ รวม Gem, Custom GPT, NotebookLM, Single Web App, Chrome Extension, Google Apps Script, Codex, AI Business, Workshop และ Capstone ไว้ในเล่มเดียว
 
 ## เป้าหมายผู้อ่าน
 
@@ -22,7 +22,7 @@
 
 ## ไฟล์ส่งมอบหลัก
 
-ทุกบทในเล่มรวมเป็น `Smart_AI_Product_Builder_BASIC_v1.0.pdf` จำนวน 1 ไฟล์ พร้อมสารบัญแบบคลิกได้ Bookmark และเลขหน้าต่อเนื่อง
+ทุกบทในเล่มรวมเป็น `Smart_AI_Product_Builder_Complete_Edition_v1.0.pdf` จำนวน 1 ไฟล์ พร้อมสารบัญแบบคลิกได้ Bookmark และเลขหน้าต่อเนื่อง
 
 ## ปกเล่ม 1
 
@@ -36,3 +36,7 @@
 - Single File Web App 1 ระบบ
 - Market & Price Sheet 1 ชุด
 - Capstone AI Product 1 ผลงานพร้อม Demo และ README
+
+## สถานะ Canonical
+
+ขอบเขตที่อนุมัติอยู่ใน [CANONICAL_SCOPE.md](CANONICAL_SCOPE.md) ส่วนไดเรกทอรี `01_BASIC` เป็นชื่อเดิมที่คงไว้เพื่อรักษาลิงก์และประวัติ Git เท่านั้น

@@ -1,19 +1,19 @@
-# Smart AI Product Builder — Series Blueprint
+# Smart AI Product Builder — Complete Edition and Future Series Blueprint
 
 ## วิสัยทัศน์
 
-สร้างชุดหนังสือภาคปฏิบัติที่ผู้อ่านหยิบเรียนเป็นรายทักษะได้ อัปเดตแยกเล่มได้ และรวมเป็น Box Set ที่มีภาพลักษณ์เดียวกัน หนังสือทุกเล่มต้องเป็น How To อย่างน้อย 80% มีผลงานส่งมอบ และไม่อ้างฟีเจอร์ที่ไม่ได้ตรวจจากเอกสารทางการ
+ผลิต Smart AI Product Builder Complete Edition เป็นหนังสือหลักสูตร 2 วันเล่มเดียวก่อน หนังสือเฉพาะทางเล่ม 2–6 เป็นแนวทางขยายในอนาคตและยังไม่อยู่ในคิวผลิต หนังสือทุกฉบับต้องเป็น How To อย่างน้อย 80% มีผลงานส่งมอบ และไม่อ้างฟีเจอร์ที่ไม่ได้ตรวจจากเอกสารทางการ
 
 ## ตารางหนังสือ
 
-| รหัส | ชื่อเล่ม | ขอบเขต | เป้าหมายหน้า |
+| รหัส | ชื่อเล่ม | ขอบเขต | สถานะ |
 | --- | --- | --- | ---: |
-| SAPB-BAS | Smart AI Product Builder BASIC | AI Foundation, Gem, Custom GPT, NotebookLM, Single Web App และ Capstone | 280–360 |
-| SAPB-NBL | NotebookLM Builder | Source-grounded research และการผลิตองค์ความรู้ | 180–220 |
-| SAPB-CHR | Chrome Extension Builder | Manifest V3 ถึงการเผยแพร่ | 220–250 |
-| SAPB-GAS | Google Apps Script Builder | Workspace automation และ Web App | 250–300 |
-| SAPB-COD | Codex Developer | Repository, Git, AI coding และ deployment | 220–250 |
-| SAPB-BIZ | AI Product Business | ตลาด แบรนด์ ราคา การขาย และ Capstone | 180–220 |
+| SAPB-COMP | Smart AI Product Builder Complete Edition | Basic + Advanced + Single Web App + Capstone | กำลังผลิต |
+| SAPB-NBL | NotebookLM Builder | Source-grounded research และการผลิตองค์ความรู้ | พักไว้ |
+| SAPB-CHR | Chrome Extension Builder | Manifest V3 ถึงการเผยแพร่ | พักไว้ |
+| SAPB-GAS | Google Apps Script Builder | Workspace automation และ Web App | พักไว้ |
+| SAPB-COD | Codex Developer | Repository, Git, AI coding และ deployment | พักไว้ |
+| SAPB-BIZ | AI Product Business | ตลาด แบรนด์ ราคา การขาย และ Capstone | พักไว้ |
 
 จำนวนหน้าเป็น Page Budget สำหรับการวางแผน ไม่ถือว่าผ่านจนกว่าจะส่งออกและตรวจไฟล์จริง
 
@@ -36,7 +36,7 @@
 
 ## สารบัญระดับ Series
 
-### เล่ม 1 — Smart AI Product Builder BASIC
+### เล่มหลัก — Smart AI Product Builder Complete Edition
 
 ส่วนหน้า: ปก ลิขสิทธิ์ คำนิยม คำนำ วิธีใช้หนังสือ และสารบัญ
 
@@ -202,11 +202,12 @@
 4. v1.0: ไฟล์โรงพิมพ์ ภาพ CMYK 300 DPI และ Errata Channel
 5. Box Set: ตรวจสันปก ลำดับสี Metadata และ Cross-promotion ทั้งชุด
 
-## Single-PDF Book Rule
+## Single-PDF Complete Edition Rule
 
-- หนึ่งเล่มส่งมอบเป็น PDF หลักหนึ่งไฟล์
+- Complete Edition ส่งมอบเป็น PDF หลักหนึ่งไฟล์
 - Front Matter, เนื้อหา 20 บท, ภาคผนวก, References และ Index ต้องรวมอยู่ในไฟล์เดียว
 - ใช้ Bookmark และสารบัญแบบคลิกได้เพื่อไปยังบท โดยไม่แยกไฟล์
 - PDF ต้องฝังฟอนต์ มีเลขหน้าต่อเนื่อง มี Bleed/Crop ตามฉบับโรงพิมพ์ และผ่าน Preflight
 - ไฟล์ Proof และไฟล์ภาพ Render เป็น QA Artifact ไม่ถือเป็น PDF ฉบับจำหน่าย
 - เมื่อออก Revision ให้แทนด้วยไฟล์เวอร์ชันใหม่ทั้งเล่ม ไม่แจก Patch PDF รายบท
+- เล่ม 2–6 ยังไม่สร้างต้นฉบับหรือไฟล์ PDF จนกว่าจะได้รับคำสั่งเริ่มผลิต

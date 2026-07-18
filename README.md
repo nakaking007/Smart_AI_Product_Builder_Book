@@ -1,10 +1,10 @@
-# Smart AI Product Builder Series
+# Smart AI Product Builder — Complete Edition
 
-A professional six-book practical series for turning AI ideas into usable digital products. Each book is maintained and updated independently while sharing one premium editorial design system.
+A professional two-day Complete Edition for turning AI ideas into usable digital products. Future topic-specific books remain an Extended Series plan and are not currently in production.
 
 ## Project status
 
-The publisher-edition production is active. The project is migrating from the original `BOOK_SET_*` source archive into a six-book Series. Each finished book is delivered as one complete PDF, never as separate chapter PDFs.
+The publisher-edition production is active for one canonical book that combines Basic, Advanced, Single Web App, Workshop, Prompt Library, appendices, and Capstone content in one complete PDF.
 
 See:
 
@@ -25,7 +25,7 @@ See:
 - `output/` — generated publication files; not the manuscript source.
 - `scripts/` — build, validation, and publishing utilities.
 - `BOOK_SET_01/` — cover, preface, reader guide, contents, and the Gem chapter.
-- `SERIES/` — six-book architecture, migration map, art direction, and per-book production sources.
+- `SERIES/` — Complete Edition production source plus paused future-series plans.
 
 ## Editorial workflow
 
@@ -39,8 +39,8 @@ See:
 ## Current manuscript state
 
 - Original BOOK_SET files: preserved as source archive during migration.
-- Series architecture: established for six books.
-- Book 1 BASIC: two-day build-to-product Premium Edition in production, including Gem, Custom GPT, NotebookLM, Single Web App, AI Business, and Capstone.
-- Final release: six primary PDFs, one PDF per book, after render and preflight QA.
+- Complete Edition: canonical two-day build-to-product book in production.
+- Extended Series books 2–6: paused for future consideration.
+- Final release: one `Smart_AI_Product_Builder_Complete_Edition_v1.0.pdf` after render and preflight QA.
 
 See [SUMMARY.md](SUMMARY.md) for the fixed course sequence and [CHANGELOG.md](CHANGELOG.md) for completed deliveries.

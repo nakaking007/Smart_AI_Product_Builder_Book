@@ -1,15 +1,15 @@
 # Smart AI Product Builder Series
 
-ชุดหนังสือภาคปฏิบัติ 6 เล่มสำหรับการเรียน การอบรม และการสร้าง AI Product โดยใช้มาตรฐานงานศิลป์ ระบบเลข และแม่แบบจัดพิมพ์ร่วมกันทั้งชุด
+พื้นที่วางแผน Smart AI Product Builder โดยปัจจุบันผลิต **Complete Edition เล่มหลักเพียงเล่มเดียว** ส่วนหนังสือเฉพาะทางเล่ม 2–6 เป็น Extended Series สำหรับพิจารณาภายหลัง
 
-## หนังสือในชุด
+## สถานะหนังสือ
 
-1. `01_BASIC` — Smart AI Product Builder BASIC
-2. `02_NOTEBOOKLM` — NotebookLM Builder
-3. `03_CHROME_EXTENSION` — Chrome Extension Builder
-4. `04_GOOGLE_APPS_SCRIPT` — Google Apps Script Builder
-5. `05_CODEX_DEVELOPER` — Codex Developer
-6. `06_AI_PRODUCT_BUSINESS` — AI Product Business
+1. `01_BASIC` — Smart AI Product Builder Complete Edition — **กำลังผลิต**
+2. `02_NOTEBOOKLM` — NotebookLM Builder — **พักไว้**
+3. `03_CHROME_EXTENSION` — Chrome Extension Builder — **พักไว้**
+4. `04_GOOGLE_APPS_SCRIPT` — Google Apps Script Builder — **พักไว้**
+5. `05_CODEX_DEVELOPER` — Codex Developer — **พักไว้**
+6. `06_AI_PRODUCT_BUSINESS` — AI Product Business — **พักไว้**
 
 ## หลักการรักษาเนื้อหา
 
@@ -19,18 +19,14 @@
 - แต่ละเล่มมี Version, Errata, Fact-check Date และ Release Checklist ของตนเอง
 - รูปแบบจัดพิมพ์ใช้ `BOOK_PREMIUM_DECORATION_STANDARD.md` เป็นมาตรฐานกลาง
 
-## ผลส่งมอบฉบับจำหน่าย
+## ผลส่งมอบปัจจุบัน
 
-หนังสือแต่ละเล่มรวมเป็น PDF เพียง 1 ไฟล์ ไม่แยก PDF รายบท รวมทั้งชุดจึงมี PDF หลัก 6 ไฟล์
+ผลส่งมอบ Canonical ปัจจุบันคือ PDF Complete Edition จำนวน 1 ไฟล์ ไม่แยก PDF รายบท
 
-| เล่ม | ชื่อไฟล์ PDF หลัก |
+| สถานะ | ชื่อไฟล์ PDF |
 | --- | --- |
-| 1 | `Smart_AI_Product_Builder_BASIC_v1.0.pdf` |
-| 2 | `NotebookLM_Builder_v1.0.pdf` |
-| 3 | `Chrome_Extension_Builder_v1.0.pdf` |
-| 4 | `Google_Apps_Script_Builder_v1.0.pdf` |
-| 5 | `Codex_Developer_v1.0.pdf` |
-| 6 | `AI_Product_Business_v1.0.pdf` |
+| กำลังผลิต | `Smart_AI_Product_Builder_Complete_Edition_v1.0.pdf` |
+| อนาคต | PDF เล่ม 2–6 จะกำหนดเมื่อมีคำสั่งเริ่มผลิต |
 
 Markdown, DOCX และไฟล์ภาพเป็น Production Source สำหรับแก้ไข ไม่ใช่ไฟล์อ่านแยกบทที่ส่งให้ลูกค้า
 
@@ -60,4 +56,4 @@ XX_BOOK_NAME/
 
 ## สถานะ
 
-เริ่มสร้างสถาปัตยกรรม Series เมื่อ 18 กรกฎาคม 2569 โดยเล่ม 1 เป็นลำดับผลิตแรก
+Complete Edition ได้รับการยืนยันเป็น Canonical Version เมื่อ 19 กรกฎาคม 2569 และหยุดการผลิต Extended Series ไว้จนกว่าจะมีคำสั่งใหม่

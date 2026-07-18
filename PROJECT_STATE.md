@@ -5,7 +5,7 @@
 - Project: Smart AI Product Builder Book
 - Project type: Professional technical book
 - Phase: Manuscript development
-- Overall status: Book 1 BASIC re-scoped as a two-day build-to-product course with Single Web App, Capstone, and Ready-to-Use Example Library
+- Overall status: Smart AI Product Builder Complete Edition confirmed as the canonical two-day single-volume course; Extended Series books 2–6 paused
 - Last updated: 2026-07-18
 
 ## Completed
@@ -21,6 +21,9 @@
 - Defined the six-book Series architecture, shared art direction, content migration map, and one-PDF-per-book delivery rule.
 - Approved the revised 20-chapter BASIC curriculum plus front matter and two appendices.
 - Added the rule that every taught topic has at least three working examples.
+- Confirmed all Basic and Advanced subjects in one Complete Edition.
+- Locked Single Web App Project, Workshop, Capstone Project, Prompt Library, and appendices as non-removable release requirements.
+- Set commercial four-color B5 artwork and print production requirements.
 
 ## Not started
 
@@ -41,4 +44,4 @@
 
 ## Next milestone
 
-Migrate and expand Book 1 chapter sources, build working example files, then export one complete PDF after technical and visual QA.
+Migrate and expand the 32 Complete Edition chapters, build working example files, then export one complete four-color PDF after technical, visual, and print preflight QA.

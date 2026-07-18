@@ -1,21 +1,24 @@
 series: Smart AI Product Builder
 book_number: 1
-book_code: SAPB-BAS
-title: Smart AI Product Builder BASIC
+book_code: SAPB-COMP
+title: Smart AI Product Builder
 subtitle: คู่มือเรียนการใช้ AI ฉบับจับมือทำ
-edition: Premium Edition
-version: 0.1.0-alpha
+edition: Complete Edition
+version: 0.2.0-alpha
 language: th-TH
 primary_color: Navy Blue
 accent_color: Royal Blue
 shared_accent: Gold
-target_pages: 280-360
+target_pages: 500-750
 fact_check_date: 2026-07-18
 status: in-production
-primary_delivery: Smart_AI_Product_Builder_BASIC_v1.0.pdf
+primary_delivery: Smart_AI_Product_Builder_Complete_Edition_v1.0.pdf
 pdf_files_per_book: 1
 course_duration: 2 days
-learning_outcome: สร้างและนำเสนอ AI Product ชิ้นแรกที่ใช้งานได้จริง
+learning_outcome: สร้าง ทดสอบ เผยแพร่ และนำเสนอ AI Product ชิ้นแรกที่ใช้งานได้จริง
 example_rule: ทุกหัวข้อมีตัวอย่างใช้งานจริงอย่างน้อย 3 ตัวอย่าง
 cover_concept: assets/images/cover/SAPB_BASIC_cover_concept_v01.jpg
 cover_status: draft-concept-not-print-ready
+canonical_scope: CANONICAL_SCOPE.md
+legacy_directory_name: 01_BASIC
+extended_series_status: future-plan

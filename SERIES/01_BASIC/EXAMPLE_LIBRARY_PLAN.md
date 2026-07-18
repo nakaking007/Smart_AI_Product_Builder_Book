@@ -1,4 +1,4 @@
-# ภาคผนวก B — Ready-to-Use Example Library Plan
+# ภาคผนวก B — Ready-to-Use Example Library Plan (Complete Edition)
 
 ## เป้าหมาย
 
@@ -81,12 +81,49 @@
 
 ตัวอย่าง Chrome Extension และ Google Apps Script ในเล่ม BASIC เป็นบทนำที่ทำตามได้ แต่ไม่แทนเนื้อหาเชิงลึกในเล่มเฉพาะทาง
 
+## B07 — Chrome Extension Examples
+
+| รหัส | ตัวอย่าง | ผลงาน |
+| --- | --- | --- |
+| CHR-NOTE-01 | Quick Note Extension | Manifest V3, Popup, Storage และ Tests |
+| CHR-TEXT-01 | Text Helper | Content Script, Messaging และ Permission Review |
+| CHR-AI-01 | AI Prompt Launcher | Safe Prompt Templates และ Settings โดยไม่มี Secret ฝังใน Extension |
+
+## B08 — Google Apps Script Examples
+
+| รหัส | ตัวอย่าง | ผลงาน |
+| --- | --- | --- |
+| GAS-REG-01 | ระบบลงทะเบียน | Sheet Schema, Form UI, Validation และ Deployment Guide |
+| GAS-DOC-01 | ระบบสร้างเอกสาร | Template Map, Drive Output และ Error Handling |
+| GAS-DASH-01 | Dashboard | Data Pipeline, Filter, Chart และ Access Rules |
+
+## B09 — Codex Workflow Examples
+
+| รหัส | ตัวอย่าง | ผลงาน |
+| --- | --- | --- |
+| COD-BUILD-01 | Build จาก Requirement | Task Prompt, Patch, Test และ Commit Evidence |
+| COD-DEBUG-01 | Debug อย่างมีหลักฐาน | Reproduction, Root Cause, Fix และ Regression Test |
+| COD-REVIEW-01 | Review Repository | Findings, Severity, File References และ Action Plan |
+
+## B10 — Publishing and Business Examples
+
+| รหัส | ตัวอย่าง | ผลงาน |
+| --- | --- | --- |
+| BIZ-OFFER-01 | Product Offer | Persona, Value Proposition, Scope และ Price |
+| BIZ-LAUNCH-01 | Launch Plan | Channel, Content, Funnel, KPI และ Timeline |
+| BIZ-PROPOSAL-01 | Proposal | Problem, Solution, Deliverables, Terms และ Quotation |
+
 ## Quality Gate
 
 - [ ] ทุกหัวข้อการสอนมีตัวอย่างจริงอย่างน้อย 3 ตัวอย่าง
 - [ ] ไฟล์ตัวอย่างเปิดได้และไม่มี Secret/API Key
 - [ ] ตัวอย่าง Web App ผ่าน Browser Test ที่ระบุ
 - [ ] Prompt ทุกชุดมีเกณฑ์ตรวจผล
+- [ ] Single Web App Project อยู่ในต้นฉบับและมีไฟล์ทดสอบได้
+- [ ] Workshop และ Mini Project มีโจทย์ ผลส่งมอบ และ Rubric
+- [ ] Capstone มี Submission Pack และ Demo Checklist
+- [ ] Prompt Library ครอบคลุมเครื่องมือหลักทั้งหมด
+- [ ] ภาคผนวก Reference และ Example Library ครบ
 - [ ] ตัวอย่างระบุข้อจำกัดและแนวทางต่อยอด
 - [ ] ลิงก์จากบทเรียนมายัง Example ID ถูกต้อง
 - [ ] License และ Source ชัดเจน

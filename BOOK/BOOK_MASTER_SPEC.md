@@ -14,7 +14,7 @@
 
 ### Basic
 
-เล่ม `Smart AI Product Builder BASIC` เป็นหลักสูตร 2 วัน ประกอบด้วย AI Foundation, Gem, Custom GPT, NotebookLM, AI Business, Single Web App และ Capstone Project ตามสารบัญที่อนุมัติใน `SERIES/01_BASIC/SUMMARY.md`
+เล่มหลัก `Smart AI Product Builder — Complete Edition` เป็นหลักสูตร 2 วัน ประกอบด้วย AI Foundation, Gem, Custom GPT, NotebookLM, Single Web App, Chrome Extension, Google Apps Script, Codex, AI Business, Workshop และ Capstone Project ตามสารบัญที่อนุมัติใน `SERIES/01_BASIC/SUMMARY.md`
 
 ### Advanced
 
@@ -24,24 +24,30 @@
 4. การใช้ Codex
 5. การวิเคราะห์ตลาด การเผยแพร่ และตั้งราคา AI Product
 
-ห้ามสลับ ตัด หรือเพิ่มหัวข้อหลักสูตรโดยไม่ได้รับคำสั่งจากผู้เขียน การแก้ไขเมื่อ 18 กรกฎาคม 2569 อนุมัติให้เพิ่ม Single Web App, Capstone และ Ready-to-Use Example Library ในเล่ม BASIC
+ห้ามสลับ ตัด หรือเพิ่มหัวข้อหลักสูตรโดยไม่ได้รับคำสั่งจากผู้เขียน การตัดสินใจวันที่ 19 กรกฎาคม 2569 กำหนดให้ Complete Edition เป็น Canonical Version ส่วนหนังสือ 6 เล่มเป็นแผน Extended Series ในอนาคต
+
+## องค์ประกอบห้ามตัดของ Complete Edition
+
+- Single Web App Project
+- Capstone Project
+- Workshop และ Mini Project
+- Prompt Library
+- ภาคผนวก รวม Cheat Sheet, Templates, Checklists, FAQ, Glossary, References, Index และ Ready-to-Use Example Library
+
+หากขาดรายการใดรายการหนึ่ง ให้ถือว่าต้นฉบับยังไม่ผ่าน Release Gate
 
 ## โครงสร้างไฟล์ฉบับจัดพิมพ์
 
-1. `00_ปก.md`
-2. `01_คำนำ.md`
-3. `02_วิธีใช้หนังสือ.md`
-4. `03_สารบัญ.md`
-5. `04_การสร้าง_Gem.md`
-6. `05_การสร้าง_Custom_GPT.md`
-7. `06_การวิเคราะห์ตลาดและตั้งราคา.md`
-8. `07_การใช้_NotebookLM.md`
-9. `08_การสร้าง_Chrome_Extension.md`
-10. `09_การออกแบบและสร้าง_GAS.md`
-11. `10_การพัฒนา_Chrome_Extension_ขั้นสูง.md`
-12. `11_การใช้_Codex.md`
-13. `12_การวิเคราะห์ตลาด_การเผยแพร่_และตั้งราคา_AI_Product.md`
-14. `13_ภาคผนวก.md`
+Canonical Source อยู่ใน `SERIES/01_BASIC/` โดยคงชื่อไดเรกทอรีเดิมเพื่อไม่ทำลายลิงก์ ประกอบด้วย
+
+1. `frontmatter/` — ปก ลิขสิทธิ์ คำนิยม คำนำ วิธีใช้ เส้นทางเรียน 2 วัน และสารบัญ
+2. `chapters/` — บทที่ 1–32 ครอบคลุม Basic, Advanced, Single Web App, Workshop และ Capstone
+3. `appendices/` — Prompt Library, Cheat Sheet, Templates, Checklists, FAQ, Glossary, References และ Index
+4. `examples/` — Ready-to-Use Example Library
+5. `assets/` — ภาพ ไอคอน Diagram QR และ Artwork
+6. `output/` — QA Artifacts และ PDF ฉบับรวมหนึ่งไฟล์
+
+ลำดับไฟล์ Canonical ให้ยึด `SERIES/01_BASIC/SUMMARY.md` ห้ามใช้โครงสร้าง BOOK_SET เดิมเป็นสารบัญฉบับจำหน่าย
 
 ## ส่วนประกอบบังคับของบทเรียน
 
@@ -90,3 +96,5 @@
 การตกแต่งฉบับพิมพ์ให้ใช้ [Premium Book Decoration Standard](../BOOK_PREMIUM_DECORATION_STANDARD.md) โดยรักษา Semantic Markdown และใช้แม่แบบจัดหน้าควบคุมไอคอน Bullet, Numbering, Header, Footer และ Divider
 
 มาตรฐานดังกล่าวเป็นข้อบังคับสำหรับทุกบท รวมถึงหน้าเปิดบทเต็มหน้า ระบบ Section Title และ Callout, Quote อย่างน้อย 2 จุด, Caption/เลขตาราง, สัดส่วน Page Composition, ชุดสี Navy–Royal Blue–Black–Gold และ Final Art Director Check ก่อนส่งออก
+
+ฉบับพิมพ์ต้องเป็นหนังสือคอมพิวเตอร์ 4 สีระดับวางจำหน่ายในร้านหนังสือ ใช้ CMYK, ภาพ 300 PPI ที่ขนาดจริง, Vector Artwork, B5 Working Grid, Font Embedding, Bleed และ Print Preflight โดยไม่คัดลอกรูปแบบเฉพาะของสำนักพิมพ์อื่น

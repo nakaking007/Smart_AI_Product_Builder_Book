@@ -1,4 +1,4 @@
-# Cover Specification — Smart AI Product Builder BASIC
+# Cover Specification — Smart AI Product Builder Complete Edition
 
 ## สถานะปก
 
@@ -36,8 +36,8 @@
 | --- | --- | --- |
 | แถบบน | คู่มือสร้าง AI Product ด้วยปัญญาประดิษฐ์ | คู่มือเรียนการใช้ AI ฉบับจับมือทำ |
 | ชื่อรอง | จากผู้ใช้ AI สู่ผู้สร้าง AI Product | คงไว้ได้ |
-| แถบชื่อเล่มล่าง | เล่มที่ 1: AI Foundation & Prompt Engineering | เล่มที่ 1: BASIC — Gem, Custom GPT, NotebookLM & Single Web App |
-| กลุ่มเครื่องมือ | มี Google Apps Script เป็นแกน | เปลี่ยนแกนเป็น Single Web App; GAS เป็นตัวอย่างต่อยอดเท่านั้น |
+| แถบชื่อเล่มล่าง | เล่มที่ 1: AI Foundation & Prompt Engineering | Complete Edition — หลักสูตรสร้าง AI Product ฉบับสมบูรณ์ |
+| กลุ่มเครื่องมือ | แสดงเครื่องมือบางส่วน | แสดง Gem, Custom GPT, NotebookLM, Single Web App, Chrome Extension, Google Apps Script และ Codex ตามขอบเขตจริง |
 | เหรียญทอง | “สร้างรายได้จริง” | “สร้างผลงานได้จริง • พร้อมต่อยอด” |
 | คำโปรยระบบอัตโนมัติ | Google Apps Script และ Coding | Single Web App ด้วย HTML, CSS และ JavaScript |
 
