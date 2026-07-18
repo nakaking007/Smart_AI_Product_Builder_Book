@@ -8,11 +8,11 @@
 
 ปัญหาไม่ได้เกิดจาก AI เพียงอย่างเดียว แต่เกิดจากการเริ่มต้นโดยยังไม่กำหนดผู้ใช้ ปัญหา ข้อมูล ผลลัพธ์ และเกณฑ์คุณภาพ บทนี้จะพาคุณสร้างผลงานชิ้นแรกด้วยกระบวนการที่นำกลับมาใช้ได้กับหลายเครื่องมือ
 
-> **Opening Hero Placeholder — ภาพที่ 1-1**  
-> **ชื่อภาพ:** จาก Pain Point สู่ AI Product ชิ้นแรก  
-> **องค์ประกอบ:** ผู้ใช้ → ปัญหา → Prompt → ผลลัพธ์ → การตรวจสอบ  
-> **Aspect Ratio:** 16:9  
-> **Callout:** เน้นว่าต้องเริ่มจากปัญหา  
+> **Opening Hero Placeholder — ภาพที่ 1-1**
+> **ชื่อภาพ:** จาก Pain Point สู่ AI Product ชิ้นแรก
+> **องค์ประกอบ:** ผู้ใช้ → ปัญหา → Prompt → ผลลัพธ์ → การตรวจสอบ
+> **Aspect Ratio:** 16:9
+> **Callout:** เน้นว่าต้องเริ่มจากปัญหา
 > **Alt Text:** แผนภาพแสดงลำดับการสร้าง AI Product ตั้งแต่ค้นหาปัญหาจนตรวจสอบผลลัพธ์
 
 ## เป้าหมายบทเรียน
@@ -53,19 +53,19 @@
 | History | เปิดบทสนทนาเดิม | เมื่อต้องทำงานต่อ | ตั้งชื่อให้ค้นหาได้และระวังข้อมูลค้าง |
 | Settings / Privacy | จัดการภาษา ข้อมูล และความเป็นส่วนตัว | ก่อนใช้งานกับงานองค์กร | ตัวเลือกแตกต่างกันตามบริการและบัญชี |
 
-> **Screenshot Placeholder — ภาพที่ 1-2**  
-> **ชื่อภาพ:** ส่วนประกอบของหน้าจอ AI Chat ทั่วไป  
-> **องค์ประกอบ:** หมายเลขกำกับ 1–8 ตรงกับ Menu Map ด้านบน  
-> **Callout:** Prompt Area, Attachment, Send และ Response Actions  
-> **Aspect Ratio:** 16:9  
+> **Screenshot Placeholder — ภาพที่ 1-2**
+> **ชื่อภาพ:** ส่วนประกอบของหน้าจอ AI Chat ทั่วไป
+> **องค์ประกอบ:** หมายเลขกำกับ 1–8 ตรงกับ Menu Map ด้านบน
+> **Callout:** Prompt Area, Attachment, Send และ Response Actions
+> **Aspect Ratio:** 16:9
 > **Alt Text:** ภาพจำลองหน้าจอสนทนา AI พร้อมหมายเลขกำกับส่วนประกอบหลัก
 
 ## Step by Step
 
 ### Step 1: เลือก Pain Point ที่เกิดซ้ำ
 
-> **Screenshot Placeholder — ภาพที่ 1-3**  
-> แบบฟอร์มรายการงานซ้ำ 3 งาน พร้อมกรอบเน้นงานที่เลือก  
+> **Screenshot Placeholder — ภาพที่ 1-3**
+> แบบฟอร์มรายการงานซ้ำ 3 งาน พร้อมกรอบเน้นงานที่เลือก
 > **Alt Text:** ตัวอย่างตารางคัดเลือก Pain Point สำหรับโครงงานแรก
 
 เริ่มจากงานที่คุณทำเป็นประจำและใช้เวลามาก เขียนรายการอย่างน้อย 3 งาน เช่น
@@ -88,8 +88,8 @@
 
 ### Step 2: ระบุผู้ใช้และผลลัพธ์
 
-> **Screenshot Placeholder — ภาพที่ 1-4**  
-> AI Product Starter Canvas ที่กรอกข้อมูลตัวอย่างครบทุกช่อง  
+> **Screenshot Placeholder — ภาพที่ 1-4**
+> AI Product Starter Canvas ที่กรอกข้อมูลตัวอย่างครบทุกช่อง
 > **Alt Text:** ตารางระบุผู้ใช้ ปัญหา Input Output และเกณฑ์คุณภาพ
 
 กรอก AI Product Starter Canvas
@@ -104,16 +104,16 @@
 | เกณฑ์คุณภาพ | ไม่เพิ่มข้อมูลเองและแยกสิ่งที่ไม่ทราบ |
 | ผู้ตรวจ | ผู้จดรายงานประชุม |
 
-> **Infographic Placeholder — ภาพที่ 1-5**  
-> **หัวข้อ:** AI Product Starter Canvas  
-> **ข้อมูล:** ผู้ใช้ → Pain Point → Input → Process → Output → Quality → Human Review  
-> **รูปแบบ:** Infographic แนวนอน 7 ช่อง  
+> **Infographic Placeholder — ภาพที่ 1-5**
+> **หัวข้อ:** AI Product Starter Canvas
+> **ข้อมูล:** ผู้ใช้ → Pain Point → Input → Process → Output → Quality → Human Review
+> **รูปแบบ:** Infographic แนวนอน 7 ช่อง
 > **Alt Text:** อินโฟกราฟิกแสดงองค์ประกอบเจ็ดส่วนของ AI Product Starter Canvas
 
 ### Step 3: เตรียมข้อมูลสมมติ
 
-> **Screenshot Placeholder — ภาพที่ 1-6**  
-> เปรียบเทียบข้อมูลก่อนและหลังลบข้อมูลส่วนบุคคล โดยใช้ข้อมูลสมมติ  
+> **Screenshot Placeholder — ภาพที่ 1-6**
+> เปรียบเทียบข้อมูลก่อนและหลังลบข้อมูลส่วนบุคคล โดยใช้ข้อมูลสมมติ
 > **Alt Text:** ตัวอย่างการเตรียมข้อมูลที่ปลอดภัยก่อนส่งให้ AI
 
 ใช้บันทึกต่อไปนี้เพื่อฝึกโดยไม่เสี่ยงต่อข้อมูลจริง
@@ -143,8 +143,8 @@
 
 ### Step 4: สร้าง Prompt แบบมีโครงสร้าง
 
-> **Screenshot Placeholder — ภาพที่ 1-7**  
-> Prompt ที่แบ่ง Role, Task, Context, Input, Rules, Output และ Quality Check  
+> **Screenshot Placeholder — ภาพที่ 1-7**
+> Prompt ที่แบ่ง Role, Task, Context, Input, Rules, Output และ Quality Check
 > **Alt Text:** ตัวอย่าง Prompt แบบมีโครงสร้างเจ็ดส่วน
 
 Prompt ที่ดีควรบอกบทบาท งาน บริบท Input กฎ รูปแบบผลลัพธ์ และการตรวจคุณภาพ ใช้ Prompt Box ต่อไปนี้เป็นต้นแบบ
@@ -194,16 +194,16 @@ Quality Check
 
 **ข้อควรระวัง:** AI อาจเติมคำที่ดูสมเหตุผลแต่ไม่มีใน Input ผู้ใช้ต้องตรวจทุกครั้ง
 
-> **Prompt Box Artwork Placeholder — ภาพที่ 1-8**  
-> **ชื่อภาพ:** โครงสร้าง Prompt 7 ส่วน  
-> **องค์ประกอบ:** Role, Task, Context, Input, Rules, Output, Quality Check  
-> **Aspect Ratio:** 4:3  
+> **Prompt Box Artwork Placeholder — ภาพที่ 1-8**
+> **ชื่อภาพ:** โครงสร้าง Prompt 7 ส่วน
+> **องค์ประกอบ:** Role, Task, Context, Input, Rules, Output, Quality Check
+> **Aspect Ratio:** 4:3
 > **Alt Text:** แผนภาพกล่องเจ็ดส่วนของ Prompt สำหรับสรุปรายงานประชุม
 
 ### Step 5: ส่ง Prompt และบันทึกผลลัพธ์
 
-> **Screenshot Placeholder — ภาพที่ 1-9**  
-> ตำแหน่งวาง Prompt ปุ่ม Send และคำตอบ Version 1 บนหน้าจอ AI Chat  
+> **Screenshot Placeholder — ภาพที่ 1-9**
+> ตำแหน่งวาง Prompt ปุ่ม Send และคำตอบ Version 1 บนหน้าจอ AI Chat
 > **Alt Text:** ขั้นตอนส่ง Prompt และบันทึกคำตอบครั้งแรก
 
 1. เปิดบทสนทนาใหม่
@@ -223,8 +223,8 @@ meeting-summary-test-v1.md
 
 ### Step 6: ตรวจคำตอบด้วย Quality Checklist
 
-> **Screenshot Placeholder — ภาพที่ 1-10**  
-> ตารางให้คะแนน 6 เกณฑ์ พร้อมตัวอย่างคะแนนผ่านและไม่ผ่าน  
+> **Screenshot Placeholder — ภาพที่ 1-10**
+> ตารางให้คะแนน 6 เกณฑ์ พร้อมตัวอย่างคะแนนผ่านและไม่ผ่าน
 > **Alt Text:** Quality Checklist สำหรับตรวจคำตอบ AI
 
 ให้คะแนนแต่ละข้อ 0 หรือ 1
@@ -244,8 +244,8 @@ meeting-summary-test-v1.md
 
 ### Step 7: ปรับ Prompt จากข้อผิดพลาดจริง
 
-> **Screenshot Placeholder — ภาพที่ 1-11**  
-> เปรียบเทียบ Prompt Version 1 และ Version 2 โดยเน้นเงื่อนไขที่แก้ไข  
+> **Screenshot Placeholder — ภาพที่ 1-11**
+> เปรียบเทียบ Prompt Version 1 และ Version 2 โดยเน้นเงื่อนไขที่แก้ไข
 > **Alt Text:** ตัวอย่างการปรับ Prompt จากข้อผิดพลาดที่ตรวจพบ
 
 ตัวอย่างคำสั่งปรับปรุง
@@ -264,8 +264,8 @@ meeting-summary-test-v1.md
 
 ### Step 8: จัดเก็บสินทรัพย์สำหรับใช้ซ้ำ
 
-> **Screenshot Placeholder — ภาพที่ 1-12**  
-> โครงสร้างโฟลเดอร์ Mini Project พร้อมไฟล์ Prompt Input Output และ Test  
+> **Screenshot Placeholder — ภาพที่ 1-12**
+> โครงสร้างโฟลเดอร์ Mini Project พร้อมไฟล์ Prompt Input Output และ Test
 > **Alt Text:** โครงสร้างไฟล์สำหรับเก็บ Prompt และหลักฐานการทดสอบ
 
 สร้างชุดไฟล์ต่อไปนี้
@@ -290,10 +290,10 @@ mini-project/
 - เกณฑ์ตรวจผล
 - Version ล่าสุด
 
-> **Diagram Placeholder — แผนภาพที่ 1-1**  
-> **ชื่อภาพ:** วงจรทดสอบ Prompt  
-> **องค์ประกอบ:** Input → Generate → Compare → Score → Improve → Save Version  
-> **รูปแบบ:** Flowchart แบบวนกลับ  
+> **Diagram Placeholder — แผนภาพที่ 1-1**
+> **ชื่อภาพ:** วงจรทดสอบ Prompt
+> **องค์ประกอบ:** Input → Generate → Compare → Score → Improve → Save Version
+> **รูปแบบ:** Flowchart แบบวนกลับ
 > **Alt Text:** แผนภาพวงจรสร้างผลลัพธ์ ตรวจคะแนน ปรับ Prompt และบันทึกเวอร์ชัน
 
 ## Case Study: ตัวอย่างจริง
@@ -404,10 +404,10 @@ mini-project/
 6. เปรียบเทียบคะแนน
 7. เขียนสรุป 5 บรรทัดว่า Version ใดดีกว่าและเพราะอะไร
 
-> **Mini Project Artwork Placeholder — ภาพที่ 1-13**  
-> **ชื่อภาพ:** แฟ้มผลงาน Meeting Summary Assistant  
-> **องค์ประกอบ:** โครงสร้างไฟล์ Prompt, Input, Output และ Test  
-> **Aspect Ratio:** 4:3  
+> **Mini Project Artwork Placeholder — ภาพที่ 1-13**
+> **ชื่อภาพ:** แฟ้มผลงาน Meeting Summary Assistant
+> **องค์ประกอบ:** โครงสร้างไฟล์ Prompt, Input, Output และ Test
+> **Aspect Ratio:** 4:3
 > **Alt Text:** ภาพแสดงไฟล์เจ็ดรายการของ Mini Project ผู้ช่วยสรุปรายงานประชุม
 
 ## Checklist
@@ -439,10 +439,10 @@ mini-project/
 
 ## QR Code Placeholder
 
-> **QR Code — บทที่ 1**  
-> **ปลายทาง:** รอกำหนด URL สำหรับดาวน์โหลด Starter Canvas และไฟล์ Mini Project  
-> **วัตถุประสงค์:** ดาวน์โหลด Template พร้อมใช้  
-> **ข้อความสำรอง:** BOOK/template/AI_Product_Starter_Canvas.md  
+> **QR Code — บทที่ 1**
+> **ปลายทาง:** รอกำหนด URL สำหรับดาวน์โหลด Starter Canvas และไฟล์ Mini Project
+> **วัตถุประสงค์:** ดาวน์โหลด Template พร้อมใช้
+> **ข้อความสำรอง:** BOOK/template/AI_Product_Starter_Canvas.md
 > **สถานะ:** ยังไม่สร้าง QR Code จนกว่าจะมี URL จริงและผ่านการทดสอบ
 
 ## สรุป

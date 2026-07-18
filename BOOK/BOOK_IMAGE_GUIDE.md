@@ -65,4 +65,3 @@ Placeholder ทุกภาพต้องระบุ
 - Diagram และ Icon ใช้ SVG หรือ Vector เมื่อระบบส่งออกสนับสนุน
 - ใช้ PNG สำหรับ Screenshot
 - CMYK, Bleed และ Crop Mark ใช้ตามข้อกำหนดโรงพิมพ์ โดยเฉพาะปกหรือหน้าที่พิมพ์ตกขอบ
-

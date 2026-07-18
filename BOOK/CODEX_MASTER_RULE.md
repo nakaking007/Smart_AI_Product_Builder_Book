@@ -73,4 +73,3 @@
 ### Workflow
 
 สร้างไฟล์ → ตรวจ → แก้ไข → Export → ตรวจ Render → Commit → สร้างบทถัดไป
-
