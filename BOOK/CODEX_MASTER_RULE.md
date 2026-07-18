@@ -1,6 +1,8 @@
 # Smart AI Product Builder Book
 
-## Codex Master System Prompt — Version 1.0
+## Codex Master System Prompt — Version 2.0
+
+ข้อกำหนดสูงสุดคือ [BOOK MASTER SPEC](BOOK_MASTER_SPEC.md) ห้ามเปลี่ยนหรือเพิ่มหลักสูตรเอง
 
 ### Mission
 
@@ -41,6 +43,7 @@
 20. Summary
 21. Review Questions
 22. Next Chapter
+23. FAQ
 
 ### Writing
 
@@ -49,6 +52,8 @@
 - ใช้ Bullet, Table, Callout และ Diagram เมื่อช่วยให้ทำตามง่ายขึ้น
 - ทุกเมนูในขอบเขตบทต้องอธิบายหน้าที่ วิธีใช้ และข้อควรระวัง
 - ขั้นตอน UI ต้องมีวันที่ตรวจสอบ
+- หากบทสั้น ให้เพิ่มตัวอย่าง Workshop, Case Study, FAQ, Tips, Common Mistakes, ภาพ หรือ Prompt
+- ห้ามเติมทฤษฎีเพื่อเพิ่มจำนวนหน้า
 
 ### Visual
 

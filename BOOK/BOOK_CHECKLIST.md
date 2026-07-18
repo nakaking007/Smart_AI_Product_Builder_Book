@@ -8,15 +8,22 @@
 - [ ] เนื้อหาเน้น How-to มากกว่าทฤษฎี
 - [ ] มี Menu Map พร้อมวันที่ตรวจสอบ
 - [ ] มี Prompt Box
+- [ ] มีตัวอย่างจริงหรือสถานการณ์จำลองที่ระบุชัดเจน
+- [ ] มี Case Study อย่างน้อย 1 เรื่อง
+- [ ] มี FAQ
+- [ ] มี Professional Tips และ Common Mistakes
 - [ ] มี Workshop
 - [ ] มี Mini Project
 - [ ] มี Checklist
 - [ ] มีแบบฝึกหัดและบทถัดไป
+- [ ] ไม่มีทฤษฎีที่เพิ่มขึ้นเพียงเพื่อยืดจำนวนหน้า
+- [ ] หากบทสั้น ได้ขยายด้วยกิจกรรม ตัวอย่าง ภาพ หรือ Prompt ที่นำไปใช้ได้จริง
 
 ## Artwork
 
 - [ ] มี Screenshot Placeholder
 - [ ] มี Infographic Placeholder
+- [ ] มี Visual Anchor อย่างน้อยประมาณทุก 2 หน้าจัดพิมพ์
 - [ ] มี QR Code Placeholder
 - [ ] ทุกภาพมีเลข Caption และ Alt Text
 - [ ] ไม่มีข้อมูลส่วนบุคคลใน Screenshot

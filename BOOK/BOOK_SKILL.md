@@ -2,30 +2,17 @@
 
 ## กฎการสร้างหนังสือ — Single Source of Truth
 
-- หนังสือชื่อ **Smart AI Product Builder**
-- ชื่อรอง **คู่มือเรียนการใช้ AI ฉบับจับมือทำ**
-- ผู้เขียน **ดร.เขมวันต์ บัวบาน**
-- ใช้ประกอบหลักสูตรอบรม 2 วัน
-- ทุกบทเป็น How-to
+ให้ยึด [BOOK MASTER SPEC Version 2.0](BOOK_MASTER_SPEC.md) เป็นข้อกำหนดสูงสุดของโครงการ
+
+- หนังสือเป็น How To สำหรับการอบรม 2 วัน
 - หนึ่งบทเท่ากับหนึ่งไฟล์ Markdown
-- ใช้ภาษาไทยง่ายและกระชับ
-- ลดทฤษฎีและเพิ่มการลงมือทำ
-- พร้อมแปลงเป็น DOCX และ PDF โดยไม่แก้โครงสร้าง
+- ภาษาไทยอ่านง่าย กระชับ เหมือนผู้สอนยืนอยู่ข้างผู้เรียน
+- ทุกบทต้องได้ผลงานจริง มี Workshop และ Mini Project
+- ทุก Step ต้องมี Screenshot Placeholder
+- พร้อมส่งออกเป็น PDF, DOCX และ EPUB โดยไม่เปลี่ยนโครงสร้าง
 
-## ส่วนประกอบบังคับของทุกบท
+## กฎเมื่อเนื้อหาไม่เพียงพอ
 
-1. Pain Point
-2. เป้าหมาย
-3. สิ่งที่ต้องเตรียม
-4. Step by Step
-5. Screenshot Placeholder ทุก Step
-6. Prompt Box
-7. Case Study
-8. Workshop
-9. Mini Project
-10. Checklist
-11. Infographic Placeholder
-12. QR Code Placeholder
-13. สรุป
+ขยายด้วยตัวอย่างจริง Workshop, Case Study, FAQ, Professional Tips, Common Mistakes, ภาพประกอบ และ Prompt เพิ่มเติมเท่านั้น ห้ามเพิ่มทฤษฎีเพื่อยืดจำนวนหน้า
 
-รายละเอียดการเขียนใช้ [Chapter Template](CODEX_CHAPTER_TEMPLATE.md) และการตรวจใช้ [Book Checklist](BOOK_CHECKLIST.md)
+รายละเอียดการเขียนใช้ [Chapter Template](CODEX_CHAPTER_TEMPLATE.md) และตรวจด้วย [Book Checklist](BOOK_CHECKLIST.md)

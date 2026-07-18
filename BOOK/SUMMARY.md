@@ -2,39 +2,24 @@
 
 - [ปก](00_ปก.md)
 - [คำนำ](01_คำนำ.md)
-- [สารบัญฉบับจัดพิมพ์](02_สารบัญ.md)
+- [วิธีใช้หนังสือ](02_วิธีใช้หนังสือ.md)
+- [สารบัญ](03_สารบัญ.md)
 
-## ภาค 1 พื้นฐานและวิธีคิด
+## หลักสูตร Basic
 
-1. [เริ่มต้นเป็น Smart AI Product Builder](chapters/01_Introduction.md)
-2. เริ่มต้นใช้งาน AI อย่างปลอดภัย
-3. Prompt Engineering แบบจับมือทำ
-4. Context Engineering
-5. Knowledge Engineering
-6. Workflow Engineering
+1. [การสร้าง Gem](04_การสร้าง_Gem.md)
+2. การสร้าง Custom GPT — `05_การสร้าง_Custom_GPT.md`
+3. การวิเคราะห์ตลาดและตั้งราคา — `06_การวิเคราะห์ตลาดและตั้งราคา.md`
+4. การใช้ NotebookLM — `07_การใช้_NotebookLM.md`
 
-## ภาค 2 เครื่องมือ AI
+## หลักสูตร Advanced
 
-7. ChatGPT
-8. Gemini และ Gem
-9. NotebookLM
-10. Claude และ Perplexity
-11. Codex
+5. การสร้าง Chrome Extension — `08_การสร้าง_Chrome_Extension.md`
+6. การออกแบบและสร้าง Google Apps Script — `09_การออกแบบและสร้าง_GAS.md`
+7. การพัฒนา Chrome Extension ขั้นสูง — `10_การพัฒนา_Chrome_Extension_ขั้นสูง.md`
+8. การใช้ Codex — `11_การใช้_Codex.md`
+9. การวิเคราะห์ตลาด การเผยแพร่ และตั้งราคา AI Product — `12_การวิเคราะห์ตลาด_การเผยแพร่_และตั้งราคา_AI_Product.md`
 
-## ภาค 3 การสร้าง AI Product
+- ภาคผนวก — `13_ภาคผนวก.md`
 
-12. Google Apps Script
-13. HTML, CSS และ JavaScript
-14. Single File Application
-15. Chrome Extension
-16. AI Agent
-
-## ภาค 4 โครงงาน
-
-17. AI LMS
-18. AI Government
-19. AI School
-20. AI Media Factory
-21. Smart AI Product Builder Capstone
-
-> รายการที่ยังไม่มีลิงก์เป็นบทที่วางแผนไว้และยังไม่สร้างไฟล์ต้นฉบับ
+> รายการที่ยังไม่มีลิงก์คือบทที่กำหนดไว้ในหลักสูตรและยังไม่เริ่มเขียนต้นฉบับ
